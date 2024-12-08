@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Button } from "./ui/button";
 import { Clock, Loader, Search, Star, XCircle } from "lucide-react";
 import { format } from "date-fns";
